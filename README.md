@@ -6,4 +6,4 @@ For this reason, the application of machine learning techniques, such as **regre
 
 ## Acknowledgments
 
-This project was inspired by the drug discovery series of [dataprofessor](https://github.com/dataprofessor
+This project was inspired by the drug discovery series of [dataprofessor](https://github.com/dataprofessor)
